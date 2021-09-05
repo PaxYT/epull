@@ -9,7 +9,7 @@ You can use other programs who have VIRUSES, or you can make a program without v
 ----------------------------------------------
 | By PAX | GitHub: PaxYT | Discord: pax#9328 |
 ----------------------------------------------
--------------------------------------------------------------------
+
 
  TUTORIAL:
 
@@ -18,7 +18,7 @@ You can use other programs who have VIRUSES, or you can make a program without v
 ✦ To resume (after pausing), press 'CTRL' key
   (Ctrl key works as stop/start keys)
 
--------------------------------------------------------------------
+
 ----------------------------------------------
 | By PAX | GitHub: PaxYT | Discord: pax#9328 |
 ----------------------------------------------
