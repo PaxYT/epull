@@ -1,5 +1,10 @@
-E-Pull
-                                             
+ GROWTOPIA | "/pull " HOT KEY with [ON/OFF] KEY!
+           
+               [!] This program for educational purposes only [!]
+               
+You can use other programs who have VIRUSES, or you can make a program without viruses.
+
+               [!] This program for educational purposes only [!]
 
 ----------------------------------------------
 | By PAX | GitHub: PaxYT | Discord: pax#9328 |
