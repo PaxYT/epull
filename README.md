@@ -17,6 +17,7 @@ You can use other programs who have VIRUSES, or you can make a program without v
 ✦ To pause, press 'CTRL' key.
 ✦ To resume (after pausing), press 'CTRL' key
   (Ctrl key works as stop/start keys)
+✦ To close, press ' " ' (") key.
 
 
 ----------------------------------------------
